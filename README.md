@@ -4,7 +4,7 @@
 
 ## 部署前的准备
 
-由于我们使用flask作为后台web框架所以最好采用virtualEnv进行python环境的配置,关于virtualEnv的使用详情[**访问这里**]('https://pypi.python.org/pypi/virtualenv')
+由于我们使用flask作为后台web框架所以最好采用virtualEnv进行python环境的配置,关于virtualEnv的使用详情[访问这里](https://pypi.python.org/pypi/virtualenv)
 
 - 安装uwsgi:`sudo pip install uwsgi`
 - 安装nginx:`sudo apt-get install nginx` 启动nginx`sudo /etc/init.d/nginx start`
